@@ -22,5 +22,3 @@
 - Bachelor's Degree in Business Science | University La Sapienza, Rome, Italy. 110/110 and honours. (2014-2017)
 
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

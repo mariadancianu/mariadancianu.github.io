@@ -1,6 +1,8 @@
 # Data Scientist
 
+## Location: near Milan
 
+---
 ## Skills 
 - **Python**: Pandas, Numpy, Scikit-Learn, cProfile, Memray, Matplotlib, Seaborn, etc
 - **Platforms & Technologies**: GitLab, GitHub, Jupyter Notebook, Jupyter Hub, Vim, Bash, Pycharm
@@ -21,4 +23,7 @@
 - Master Course in Data Analytics | University of Strathclyde, Glasgow, Scotland (2018-2019)								       		
 - Bachelor's Degree in Business Science | University La Sapienza, Rome, Italy. 110/110 and honours. (2014-2017)
 
+---
+## Spare time 
+Hiking in the italian Alps, hitting the gym, going to photography exhibitions and watching tennis tournaments.
 

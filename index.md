@@ -1,8 +1,4 @@
 # Data Scientist
-
-## Location: 
-Italy, near Milan
-
 ---
 ## Skills 
 - **Python**: Pandas, Numpy, Scikit-Learn, cProfile, Memray, Matplotlib, Seaborn, etc

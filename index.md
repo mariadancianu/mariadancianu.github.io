@@ -1,6 +1,7 @@
 # Data Scientist
 
-## Location: near Milan
+## Location: 
+Italy, near Milan
 
 ---
 ## Skills 

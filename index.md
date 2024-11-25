@@ -7,6 +7,10 @@
 - **Machine Learning**: Unsupervised ML Models (Agglomerative, KMeans Clustering), Supervised ML Models for binary and multi-class classification and regression (Decision Tree, Random Forest, XGBRegressor). 
 
 ---
+## Experience 
+**Data Scientist @ Voltaware (Since 2019)**
+
+---
 ## Achievements
 - Committed Data Scientist with **5 years of Python development experience** in the **Energy & Utilities Data Analytics** sector
 - Delivered **real-time** electricity consumption **insights** based on high-freqency **time-series smart meter data** from residential households
@@ -17,9 +21,6 @@
 - Master Course in Data Analytics | University of Strathclyde, Glasgow, Scotland (2018-2019)								       		
 - Bachelor's Degree in Business Science | University La Sapienza, Rome, Italy. 110/110 and honours. (2014-2017)
 
----
-## Experience 
-**Data Scientist @ Voltaware (Since 2019)**
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

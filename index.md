@@ -1,4 +1,11 @@
 # Data Scientist
+
+---
+## Achievements
+- Committed Data Scientist with **5 years of Python development experience** in the **Energy & Utilities Data Analytics** sector
+- Delivered **real-time** electricity consumption **insights** based on high-freqency **time-series smart meter data** from residential households
+- Cooperated with a team of brilliant Data Engineers and Data Scientists to design and deliver reliable, high-quality and cost-effective software solutions for complex business requirements, including **Live Analytics Applications**
+
 ---
 ## Skills 
 - **Python**: Pandas, Numpy, Scikit-Learn, cProfile, Memray, Matplotlib, Seaborn, etc
@@ -12,12 +19,6 @@
 - **Real Time Analytics:** Led the transition from Electrical Appliance Detection on historical data to Live Analytics. Re-designed and re-implemented the entire code stack to produce results on-the-fly. 
 - **Company Internal Tools:** Developed Python packages for internal use, such as data visualization, data health check, semi-automated labelling and KPIs monitoring.
 - Collaborated with cross-functional teams to **convert pilots with potential clients into commercial contracts** and to define technical short term and long term plans and priorities, and **improve the Software Development Lifecycle**.
-   
----
-## Achievements
-- Committed Data Scientist with **5 years of Python development experience** in the **Energy & Utilities Data Analytics** sector
-- Delivered **real-time** electricity consumption **insights** based on high-freqency **time-series smart meter data** from residential households
-- Cooperated with a team of brilliant Data Engineers and Data Scientists to design and deliver reliable, high-quality and cost-effective software solutions for complex business requirements, including **Live Analytics Applications**
 
 ---
 ## Education

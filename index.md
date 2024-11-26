@@ -8,7 +8,11 @@
 ---
 ## Experience 
 **Data Scientist @ Voltaware (Since 2019)**
-
+- **Energy Disaggregation:** Developed production-ready Electrical Appliance Detection algorithms using supervised and unsupervised Machine Learning models.
+- **Real Time Analytics:** Led the transition from Electrical Appliance Detection on historical data to Live Analytics. Re-designed and re-implemented the entire code stack to produce results on-the-fly. 
+- **Company Internal Tools:** Developed Python packages for internal use, such as data visualization, data health check, semi-automated labelling and KPIs monitoring.
+- Collaborated with cross-functional teams to **convert pilots with potential clients into commercial contracts** and to define technical short term and long term plans and priorities, and **improve the Software Development Lifecycle**.
+   
 ---
 ## Achievements
 - Committed Data Scientist with **5 years of Python development experience** in the **Energy & Utilities Data Analytics** sector
@@ -18,7 +22,7 @@
 ---
 ## Education
 - Master Course in Data Analytics | University of Strathclyde, Glasgow, Scotland (2018-2019)								       		
-- Bachelor's Degree in Business Science | University La Sapienza, Rome, Italy. 110/110 and honours. (2014-2017)
+- Bachelor's Degree in Business Science | University La Sapienza, Rome, Italy. Banking, Insurance and Financial Markets. 110/110 and honours. (2014-2017)
 
 ---
 ## Spare time 

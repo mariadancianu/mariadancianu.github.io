@@ -11,3 +11,5 @@ redirect_from:
 
 # Blog
 Work in Progress...
+
+In the meantime, feel free to check out my GitHub repositories. 

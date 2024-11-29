@@ -9,5 +9,5 @@ redirect_from:
   - /download/
 ---
 
-# About Me
-<!--author-->
+# Blog
+Work in Progress...

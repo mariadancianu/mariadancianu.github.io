@@ -55,7 +55,8 @@ menu:
     url:               /blog/
   - title:             Résumé
     url:               /resume/
-  - title:             About Me
+  - title:             About Me©
+  
     url:               /about/
 
 # Add links to the footer.

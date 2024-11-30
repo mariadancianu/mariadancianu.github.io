@@ -2,14 +2,13 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Blog
 hide_description: true
 redirect_from:
   - /download/
 ---
 
 # Blog
-Work in Progress...
+Welcome to my Blog! This page is Work in Progress...
 
 In the meantime, feel free to check out my GitHub repositories. 

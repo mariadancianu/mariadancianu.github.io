@@ -77,7 +77,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
 paginate_path:         /:num/
-
+#paginate_path: '/blog/:num/'
+#paginate_path: '/portfolio/:num/'
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -300,8 +301,8 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  projects:
-    permalink:         /projects/:path/
+  portfolio:
+    permalink:         /portfolio/:path/
     output:            true
 
 
@@ -336,6 +337,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-paginate 
 
 
 # SEO Tag
@@ -423,3 +425,4 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+

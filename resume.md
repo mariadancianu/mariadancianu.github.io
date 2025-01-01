@@ -24,7 +24,7 @@ redirect_from:
 
 ## Experience
 
-**Data Scientist @ Voltaware (Since 2019)**
+**Data Scientist @ [Voltaware](https://voltaware.com/) (Since 2019)**
 
 - **Energy Disaggregation**: Developed production-ready Electrical Appliance Detection algorithms using supervised and unsupervised Machine Learning models.
 - **Real Time Analytics**: Led the transition from Electrical Appliance Detection on historical data to Live Analytics. Re-designed and re-implemented the entire code stack to produce results on-the-fly.

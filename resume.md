@@ -31,6 +31,10 @@ redirect_from:
 - **Company Internal Tools**: Developed Python packages for internal use, such as data visualization, data health check, semi-automated labelling and KPIs monitoring.
 - Collaborated with cross-functional teams to **convert pilots with potential clients into commercial contracts** and to define technical short term and long term plans and priorities, and **improve the Software Development Lifecycle**.
 
+
+## Certifications
+- [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1) 
+
 ## Education
 
 - Master Course in Data Analytics - University of Strathclyde, Glasgow, Scotland (2018-2019)

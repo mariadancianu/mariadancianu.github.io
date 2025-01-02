@@ -24,7 +24,7 @@ redirect_from:
 
 ## Experience
 
-**Data Scientist @ [Voltaware](https://voltaware.com/) (Since 2019)**
+**Data Scientist @ [Voltaware](https://voltaware.com/) (2019-2024)**
 
 - **Energy Disaggregation**: Developed production-ready Electrical Appliance Detection algorithms using supervised and unsupervised Machine Learning models.
 - **Real Time Analytics**: Led the transition from Electrical Appliance Detection on historical data to Live Analytics. Re-designed and re-implemented the entire code stack to produce results on-the-fly.
@@ -34,6 +34,7 @@ redirect_from:
 
 ## Certifications
 - [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1) 
+- [Building Generative AI-Powered Applications with Python](https://www.coursera.org/learn/building-gen-ai-powered-applications?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1)
 
 ## Education
 

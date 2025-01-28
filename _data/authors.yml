@@ -8,20 +8,15 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    My name is Maria and I am a Data Scientist based in Italy, somewhere between the city 
-    of Milan and the beautiful italian Alps. 
+   Hi, I’m Maria, a Data Scientist based in Italy, nestled between the vibrant city of Milan and the stunning Italian Alps.
 
-    I have more than 5 years of Python development working experience in the Energy & Utilities Data Analytics field.
-    I have experience with sensor-based high frequency time-series data and Real Time Analytics.
+   With over 5 years of experience in Python development, I specialize in Data Analytics for the Energy & Utilities sector. My work has focused on sensor-based, high-frequency time-series data and Real-Time Analytics, tackling some of the industry's most interesting challenges.
 
-    In the past 5 years I cooperated with a team of brilliant Data Engineers and Data Scientists 
-    to design and deliver reliable, high-quality and cost-effective software solutions for complex 
-    business requirements, including Live Analytics Applications. 
+   Throughout my career, I’ve had the privilege of collaborating with a talented team of Data Engineers and Data Scientists. Together, we’ve designed and delivered reliable, high-quality software solutions for complex business needs, including live analytics applications.
 
-    On a personal note, I spend a lot of my free time hiking, hitting the gym, going to photography 
-    exhibitions and watching tennis tournaments.
+   Outside of work, I’m passionate about hiking, staying active at the gym, visiting photography exhibitions, and watching tennis tournaments.
 
-    Feel free to get in touch! 
+   Feel free to reach out—I’d love to connect! 
     
 
   # This photo will be used in the about section

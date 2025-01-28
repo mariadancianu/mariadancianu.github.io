@@ -25,6 +25,6 @@ hide_description: true
 
 
 # Portfolio
-Welcome to my Portfolio! This page is Work in Progress...
+Welcome to my Portfolio!
 
-In the meantime, feel free to check out my GitHub repositories.
+This page is a work in progress. If you don’t see much just yet, check back soon—there’s more exciting content on the way!

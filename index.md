@@ -9,17 +9,13 @@ redirect_from:
   - /download/
 ---
 
-# Hey stranger! 
+# Hey there, welcome to my website!
 
-Welcome to my website! I'm happy to see you here. 
+I’m Maria, a Data Scientist living just outside Milan, Italy. For the past 5 years, I’ve been working at [Voltaware](https://voltaware.com/), an innovative energy monitoring startup based in London. I’ve had the privilege of collaborating with an incredible team and tackling some really interesting and complex Data Analytics challenges.
 
-Let me introduce myself. My name is Maria and I am a Data Scientist that lives in Italy, near Milan. For the past 5 years I worked for [Voltaware](https://voltaware.com/), an Energy Monitoring startup based in London. I was pleased to collaborate with an amazing team, and challenge myself solving complex Data Analytics problems. 
+Curiosity drives me, and I’m always on the lookout for new things to learn and experiment with. Right now, I’m deepening my skills through a few online courses, focusing on AWS and Generative AI, while also exploring tools that help boost my productivity (currently, Vim and Bash are my go-to).
 
-I am a curious human being and I am constantly looking for something new to learn and experiment with. 
-At the moment I am upskilling by taking a few online courses and experimenting with the learned concepts. I am currently focusing on AWS and Generative AI. I am also playing around with a few tools that are helping me being more productive (Vim and Bash). 
-
-Besides Data Science, I'm also into photography, hiking and tennis. 
-
+When I’m not immersed in data, I enjoy photography, hiking, and playing tennis—passions that keep me balanced and inspired.
 
 
 

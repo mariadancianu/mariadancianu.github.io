@@ -49,10 +49,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Portfolio
-    url:               /portfolio/
   - title:             Blog
     url:               /blog/
+  #- title:             Blog
+  #  url:               /blog/
   - title:             Résumé
     url:               /resume/
   - title:             About Me
@@ -302,7 +302,7 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  portfolio:
+  blog:
     permalink:         /portfolio/:path/
     output:            true
 

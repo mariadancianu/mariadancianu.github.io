@@ -10,31 +10,43 @@ redirect_from:
 ---
 
 # Résumé
-## Achievements
+## Professional Summary
 
-- Committed Data Scientist with  **5 years of Python development experience** in the **Energy & Utilities Data Analytics** sector.
-- Delivered **real-time electricity consumption insights** based on high-freqency **time-series smart meter data** from residential households.
-- Cooperated with a team of brilliant Data Engineers and Data Scientists to design and deliver reliable, high-quality and cost-effective software solutions for complex business requirements, including **Live Analytics Applications**.
+Experienced Data Scientist with **5+ years of expertise**. Skilled in delivering data-driven solutions, specializing in data analysis, real-time analytics and machine learning. Strong background in **developing scalable solutions**, working with **complex datasets**, and **collaborating with cross-functional teams**, within an Agile methodology framework, to drive business impact.
+
+- **Energy and Utilities**: Energy disaggregation. Developed analytics solutions for residential households smart meter data.
+- **Time-Series Data Analysis**: Expertise in processing and analyzing high-frequency time-series data for real-time insights.
+- **Data Visualization**: Designed clear, impactful visualizations to communicate complex insights effectively.
+- **Data Pipelines**: Optimized workflows for data handling, feature engineering, and KPIs monitoring.
 
 ## Skills
-
 - **Python**: Pandas, Numpy, Scikit-Learn, cProfile, Memray, Matplotlib, Seaborn, etc
-- **Platforms & Technologies**: GitLab, GitHub, Jupyter Notebook, Jupyter Hub, Vim, Bash, Pycharm
-- **Machine Learning**: Unsupervised ML Models (Agglomerative, KMeans Clustering), Supervised ML Models for binary and multi-class classification and regression (Decision Tree, Random Forest, XGBRegressor).
+- **Platforms & Technologies**: GitLab, GitHub, Jupyter Notebook, Jupyter Hub, Vim, Bash, Visual Studio Code
+- **Machine Learning**: Unsupervised ML Models (Agglomerative, KMeans Clustering), Supervised ML Models for binary and multi-class classification and regression (Decision Tree, Random Forest, XGBRegressor)
 
 ## Experience
 
-**Data Scientist @ [Voltaware](https://voltaware.com/) (2019-2024)**
+**Data Scientist @ [Voltaware](https://voltaware.com/) (Sep 2019 - Dec 2024)**
 
-- **Energy Disaggregation**: Developed production-ready Electrical Appliance Detection algorithms using supervised and unsupervised Machine Learning models.
+- **Energy Disaggregation**: Developed production-ready Electrical Appliance Detection models, achieving accurate results (e.g. for fridge, dishwasher, boiler, etc), using supervised and unsupervised Machine Learning models.
 - **Real Time Analytics**: Led the transition from Electrical Appliance Detection on historical data to Live Analytics. Re-designed and re-implemented the entire code stack to produce results on-the-fly.
 - **Company Internal Tools**: Developed Python packages for internal use, such as data visualization, data health check, semi-automated labelling and KPIs monitoring.
-- Collaborated with cross-functional teams to **convert pilots with potential clients into commercial contracts** and to define technical short term and long term plans and priorities, and **improve the Software Development Lifecycle**.
-
+- Collaborated with cross-functional teams to **secure commercial contracts** converting pilot projects into client-ready solutions by aligning technical capabilities with business needs.
+- Defined and improved the Software Development Lifecycle by establishing short and long term technical strategies, ensuring high-quality deliverables aligned with business goals.
 
 ## Certifications
-- [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1) 
-- [Building Generative AI-Powered Applications with Python](https://www.coursera.org/learn/building-gen-ai-powered-applications?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1)
+- **[AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1), Amazon Web Services (Dec 2024)**
+
+Gained foundational knowledge of Cloud Computing concepts, AWS services (Lambda, S3, EC2, etc) and architecture principles for scalable solutions.
+
+- **[Building Generative AI-Powered Applications with Python](https://www.coursera.org/learn/building-gen-ai-powered-applications?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1), IBM (Jan 2025)**
+
+Gained knowledge of the core concepts of Generative AI technologies, models and platforms, such as LLMs, RAG, HuggingFace, LangChain.
+
+
+- **[Generative AI: Prompt Engineering Basics](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone), IBM (Jan 2025)**
+
+Learned the basics of Prompt Engineering techniques, such as Chain-of-Thought and Tree-of-Thought.
 
 ## Education
 

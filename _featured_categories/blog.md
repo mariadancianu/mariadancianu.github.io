@@ -27,4 +27,4 @@ hide_description: true
 # Blog
 Welcome to my Blog!
 
-This page is a work in progress. If you don’t see much just yet, check back soon—there’s more exciting content on the way!
+This space is still evolving. If you don’t see much just yet, check back soon—there’s more exciting content on the way!

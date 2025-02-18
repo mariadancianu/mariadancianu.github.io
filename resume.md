@@ -54,7 +54,9 @@ Learned the basics of Prompt Engineering techniques, such as Chain-of-Thought an
 - Bachelor’s Degree in Business Science - University La Sapienza, Rome, Italy. Banking, Insurance and Financial Markets. 110/110 and honours. (2014-2017)
 
 ## Languages
-- English (fluent), Italian (fluent), Romanian (native)
+- English: fluent
+- Italian: fluent
+- Romanian: native
 
 ## Spare Time
 

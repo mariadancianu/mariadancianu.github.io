@@ -20,8 +20,20 @@ Experienced Data Scientist with **5+ years of expertise**. Skilled in delivering
 - **Data Pipelines**: Optimized workflows for data handling, feature engineering, and KPIs monitoring.
 
 ## Skills
-- **Python**: Pandas, Numpy, Scikit-Learn, cProfile, Memray, Matplotlib, Seaborn, etc
-- **Platforms & Technologies**: GitLab, GitHub, Jupyter Notebook, Jupyter Hub, Vim, Bash, Visual Studio Code
+- **Python**: 
+  - Data Manipulation: Pandas, NumPy;
+   - Data Visualization: Matplotlib, Seaborn;
+  - Machine Learning: Scikit-Learn;
+  - Profiling & Optimization: CProfile, Snakeviz, Memray;
+  - Generative AI: LangChain, OpenAI, Hugging Face;
+  - Web Scraping: BeautifulSoup, Selenium;
+
+- **Platforms & Technologies**: 
+  - Version control: GitLab, GitHub;
+  - Terminal/Command line: Bash;
+  - IDE & Editors: Vim, Jupyter Notebook, Jupyter Hub, Visual Studio Code, Cursor;
+  - Code Quality & Automation: pre-commit;
+
 - **Machine Learning**: Unsupervised ML Models (Agglomerative, KMeans Clustering), Supervised ML Models for binary and multi-class classification and regression (Decision Tree, Random Forest, XGBRegressor)
 
 ## Experience

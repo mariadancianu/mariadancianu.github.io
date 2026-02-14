@@ -64,6 +64,10 @@ Data Scientist with **5+ years of experience**, specializing in **LLM-based solu
 - Confluence
 
 ## Certifications
+- **[Agentic Knowledge Graph Construction](https://www.deeplearning.ai/short-courses/agentic-knowledge-graph-construction/), neo4j, Deeplearning.ai (Feb 2026)**
+
+Learned techniques for building knowledge graphs with agentic AI, including automated data extraction, graph database design, and retrieval optimization.
+
 -  **[Fine-tuning and RL for LLMs: Intro to Post-training](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/), AMD, Deeplearning.ai (Jan 2026)**
 
 Explored core post-training techniques for LLMs, such as supervised fine-tuning, reinforcement learning from human feedback (RLHF), and preference optimization methods for model alignment.

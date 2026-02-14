@@ -11,8 +11,7 @@ redirect_from:
 
 # Résumé
 ## Professional Summary
-
-Experienced Data Scientist with **5+ years of expertise**. Skilled in delivering data-driven solutions, specializing in data analysis, real-time analytics and machine learning. Strong background in **developing scalable solutions**, working with **complex datasets**, and **collaborating with cross-functional teams**, within an Agile methodology framework, to drive business impact.
+Data Scientist with **5+ years of experience**, specializing in **LLM-based solutions**. One year of hands-on experience designing and deploying production-ready **GenAI systems** in the CX space, including **conversational voicebots** and **email assistants**. Earlier experience focused on IoT real-time analytics.
 
 - **Energy and Utilities**: Energy disaggregation. Developed analytics solutions for residential households smart meter data.
 - **Time-Series Data Analysis**: Expertise in processing and analyzing high-frequency time-series data for real-time insights.

@@ -13,11 +13,6 @@ redirect_from:
 ## Professional Summary
 Data Scientist with **5+ years of experience**, specializing in **LLM-based solutions**. One year of hands-on experience designing and deploying production-ready **GenAI systems** in the CX space, including **conversational voicebots** and **email assistants**. Earlier experience focused on IoT real-time analytics.
 
-- **Energy and Utilities**: Energy disaggregation. Developed analytics solutions for residential households smart meter data.
-- **Time-Series Data Analysis**: Expertise in processing and analyzing high-frequency time-series data for real-time insights.
-- **Data Visualization**: Designed clear, impactful visualizations to communicate complex insights effectively.
-- **Data Pipelines**: Optimized workflows for data handling, feature engineering, and KPIs monitoring.
-
 ## Skills
 - **Python**: 
   - Data Manipulation: Pandas, NumPy;
@@ -46,18 +41,20 @@ Data Scientist with **5+ years of experience**, specializing in **LLM-based solu
 - Defined and improved the Software Development Lifecycle by establishing short and long term technical strategies, ensuring high-quality deliverables aligned with business goals.
 
 ## Certifications
-- **[AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1), Amazon Web Services (Dec 2024)**
-
-Gained foundational knowledge of Cloud Computing concepts, AWS services (Lambda, S3, EC2, etc) and architecture principles for scalable solutions.
+-  **[Fine-tuning and RL for LLMs: Intro to Post-training](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/), AMD, Deeplearning.ai (Jan 2026)**
 
 - **[Building Generative AI-Powered Applications with Python](https://www.coursera.org/learn/building-gen-ai-powered-applications?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1), IBM (Jan 2025)**
 
 Gained knowledge of the core concepts of Generative AI technologies, models and platforms, such as LLMs, RAG, HuggingFace, LangChain.
 
-
 - **[Generative AI: Prompt Engineering Basics](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone), IBM (Jan 2025)**
 
 Learned the basics of Prompt Engineering techniques, such as Chain-of-Thought and Tree-of-Thought.
+
+- **[AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1), Amazon Web Services (Dec 2024)**
+
+Gained foundational knowledge of Cloud Computing concepts, AWS services (Lambda, S3, EC2, etc) and architecture principles for scalable solutions.
+
 
 ## Education
 
@@ -68,7 +65,8 @@ Learned the basics of Prompt Engineering techniques, such as Chain-of-Thought an
 - English: fluent
 - Italian: fluent
 - Romanian: native
+- Spanish: learning
 
 ## Spare Time
 
-Hiking in the italian Alps, hitting the gym, going to photography exhibitions and watching tennis tournaments.
+Hiking in the italian Alps, learning to swim and taking spanish lessons.

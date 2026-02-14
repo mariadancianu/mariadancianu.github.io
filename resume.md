@@ -14,21 +14,41 @@ redirect_from:
 Data Scientist with **5+ years of experience**, specializing in **LLM-based solutions**. One year of hands-on experience designing and deploying production-ready **GenAI systems** in the CX space, including **conversational voicebots** and **email assistants**. Earlier experience focused on IoT real-time analytics.
 
 ## Skills
-- **Python**: 
-  - Data Manipulation: Pandas, NumPy;
-   - Data Visualization: Matplotlib, Seaborn;
-  - Machine Learning: Scikit-Learn;
-  - Profiling & Optimization: CProfile, Snakeviz, Memray;
-  - Generative AI: LangChain, OpenAI, Hugging Face;
-  - Web Scraping: BeautifulSoup, Selenium;
 
-- **Platforms & Technologies**: 
-  - Version control: GitLab, GitHub;
-  - Terminal/Command line: Bash;
-  - IDE & Editors: Vim, Jupyter Notebook, Jupyter Hub, Visual Studio Code, Cursor;
-  - Code Quality & Automation: pre-commit;
+**Generative AI & LLMs:**
 
-- **Machine Learning**: Unsupervised ML Models (Agglomerative, KMeans Clustering), Supervised ML Models for binary and multi-class classification and regression (Decision Tree, Random Forest, XGBRegressor)
+- Architectures: RAG pipelines, multi-agent systems, tool-calling LLM agents
+- Prompt Engineering: System prompts, few-shot learning, chain-of-thought
+- Backend: FastAPI 
+- API Integration: Microsoft Graph (Outlook), Google Drive API, ElevenLabs API, CRM systems (Zendesk)
+- Frameworks: LangChain, Hugging Face
+- Production Deployment: Low-latency optimization, cost optimization
+
+**Python & Data Science:**
+
+- Data Manipulation: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
+- Machine Learning: Scikit-Learn (supervised & unsupervised, model evaluation, hyperparameter tuning)
+- Profiling & Optimization: CProfile, Snakeviz, Memray
+- Web Scraping: BeautifulSoup, Selenium
+- Data Science Workflows: EDA, cleaning, visualization
+- Environment Management: Conda, venv (environment isolation, dependency management)
+
+
+**Platforms & Technologies:**
+
+- Version Control: GitLab, GitHub
+- Terminal/Command Line: Bash
+- IDE & Editors: Vim, Jupyter Notebook, Jupyter Hub, Visual Studio Code, Cursor
+- Code Quality & Automation: pre-commit
+- Databases: MySQL
+- Analytics & BI: Zoho Analytics
+- Deployment & Monitoring: PM2, crontab, Linux VMs
+
+
+**Collaboration & Project Management:**
+- Jira
+- Confluence
 
 ## Experience
 **Data Scientist @ [INGO](https://ingo.it/) (April 2025 - Today)**
@@ -45,6 +65,7 @@ Data Scientist with **5+ years of experience**, specializing in **LLM-based solu
 
 ## Certifications
 -  **[Fine-tuning and RL for LLMs: Intro to Post-training](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/), AMD, Deeplearning.ai (Jan 2026)**
+
 Explored core post-training techniques for LLMs, such as supervised fine-tuning, reinforcement learning from human feedback (RLHF), and preference optimization methods for model alignment.
 
 - **[Building Generative AI-Powered Applications with Python](https://www.coursera.org/learn/building-gen-ai-powered-applications?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1), IBM (Jan 2025)**

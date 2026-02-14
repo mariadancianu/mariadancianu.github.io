@@ -23,3 +23,4 @@ I'm especially excited by cutting-edge technologies and their potential to drive
 
 When I'm not immersed in data, I enjoy hiking, learning to swim, and taking Spanish lessons—passions that keep me balanced and inspired.
 
+¡Algoritmos, montañas y español - mi combinación perfecta!

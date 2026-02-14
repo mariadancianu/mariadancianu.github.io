@@ -8,14 +8,14 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-   Hi, I'm Maria, a Data Scientist based in Italy, nestled between the vibrant city of Milan and the stunning Italian Alps.
+   Hi, I'm Maria, a Data Scientist based in Italy, near Milan.
 
    With over 5 years of experience in Python development, I specialize in LLM-based solutions and Generative AI. Since early 2025, I've been working at Ingo, where I've been designing and deploying production-ready AI systems for customer experience, including conversational voicebots and email assistants. I've beein building end-to-end AI services leveraging multi-agent architectures, RAG pipelines, tool calling, and advanced prompt engineering—integrating with CRM systems, APIs, and custom FastAPI services to deliver reliable, high-quality solutions for complex business needs.
 
    My earlier career focused on IoT Real-Time Analytics for the Energy & Utilities sector, where I worked with sensor-based, high-frequency time-series data. 
 
    Outside of work, I'm passionate about hiking, learning to swim, visiting photography exhibitions, and taking Spanish lessons—activities that keep me balanced and inspired.
-   
+
    Feel free to reach out—I'd love to connect!
 
   # This photo will be used in the about section

@@ -31,17 +31,21 @@ Data Scientist with **5+ years of experience**, specializing in **LLM-based solu
 - **Machine Learning**: Unsupervised ML Models (Agglomerative, KMeans Clustering), Supervised ML Models for binary and multi-class classification and regression (Decision Tree, Random Forest, XGBRegressor)
 
 ## Experience
+**Data Scientist @ [INGO](https://ingo.it/) (April 2025 - Today)**
+- **Generative AI & LLMs**: designed and deployed production-ready AI CX sys- tems, including multi-agent voicebots and email assistants, optimized for low cost and latency leveraging LLMs with tool calling, RAG pipelines and advanced prompt engineering.
+- **End-to-end AI services**: developed custom FastAPI services and integrated third-party APIs such as Microsoft Graph, ElevenLabs, Google Drive and CRM systems (i.e. Zendesk) to enable automated CX, document processing, and email orchestration workflows.
+- **Reporting & Analytics**: developed client-facing dashboards in Zoho Analyt- ics leveraging complex MySQL queries for service monitoring and data-driven insights.
+- **Production Infrastructure**: deployed production services on Linux VMs using PM2 for process monitoring and auto-restart and crontab for automated job scheduling.
 
 **Data Scientist @ [Voltaware](https://voltaware.com/) (Sep 2019 - Dec 2024)**
 
-- **Energy Disaggregation**: Developed production-ready Electrical Appliance Detection models, achieving accurate results (e.g. for fridge, dishwasher, boiler, etc), using supervised and unsupervised Machine Learning models.
-- **Real Time Analytics**: Led the transition from Electrical Appliance Detection on historical data to Live Analytics. Re-designed and re-implemented the entire code stack to produce results on-the-fly.
-- **Company Internal Tools**: Developed Python packages for internal use, such as data visualization, data health check, semi-automated labelling and KPIs monitoring.
-- Collaborated with cross-functional teams to **secure commercial contracts** converting pilot projects into client-ready solutions by aligning technical capabilities with business needs.
-- Defined and improved the Software Development Lifecycle by establishing short and long term technical strategies, ensuring high-quality deliverables aligned with business goals.
+- **Energy Disaggregation**: developed production-ready domestic electrical appli- ance detection models, achieving high accuracy, and using supervised and un- supervised machine learning models.
+- **Real Time Analytics**: led the transition from historical to live analytics, re- designing the code stack for real-time results.
+- **Internal Tools**: developed Python packages for visualization, data quality checks, semi-automated labeling, and KPI monitoring, improving workflow ef- ficiency.
 
 ## Certifications
 -  **[Fine-tuning and RL for LLMs: Intro to Post-training](https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/), AMD, Deeplearning.ai (Jan 2026)**
+Explored core post-training techniques for LLMs, such as supervised fine-tuning, reinforcement learning from human feedback (RLHF), and preference optimization methods for model alignment.
 
 - **[Building Generative AI-Powered Applications with Python](https://www.coursera.org/learn/building-gen-ai-powered-applications?campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo=&gad_source=1), IBM (Jan 2025)**
 

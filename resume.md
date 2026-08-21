@@ -11,13 +11,13 @@ redirect_from:
 
 # Résumé
 ## Professional Summary
-Data Scientist with **5+ years of experience**, specializing in **LLM-based solutions**. One year of hands-on experience designing and deploying production-ready **GenAI systems** in the CX space, including **conversational voicebots** and **email assistants**. Earlier experience focused on IoT real-time analytics.
+Data Scientist with **6+ years of working experience**, specializing in **LLM-based solutions**. More than one year of hands-on experience designing and deploying production-ready **GenAI systems** in the CX space, including **conversational voicebots**, **chatbots** and **email assistants**. Earlier experience focused on IoT real-time analytics.
 
 ## Experience
-**Data Scientist @ [INGO](https://ingo.it/) (April 2025 - Today)**
-- **Generative AI & LLMs**: designed and deployed production-ready AI CX sys- tems, including multi-agent voicebots and email assistants, optimized for low cost and latency leveraging LLMs with tool calling, RAG pipelines and advanced prompt engineering.
+**Data Scientist @ [INGO](https://ingo.it/) (April 2025 - July 2026)**
+- **Generative AI & LLMs**: designed and deployed production-ready AI CX sys- tems, including multi-agent voicebots, chatbots and email assistants, optimized for low cost and latency leveraging LLMs with tool calling, RAG pipelines and advanced prompt engineering.
 - **End-to-end AI services**: developed custom FastAPI services and integrated third-party APIs such as Microsoft Graph, ElevenLabs, Google Drive and CRM systems (i.e. Zendesk) to enable automated CX, document processing, and email orchestration workflows.
-- **Reporting & Analytics**: developed client-facing dashboards in Zoho Analyt- ics leveraging complex MySQL queries for service monitoring and data-driven insights.
+- **Reporting & Analytics**: developed client-facing dashboards in Zoho Analytics leveraging complex MySQL queries for service monitoring and data-driven insights.
 - **Production Infrastructure**: deployed production services on Linux VMs using PM2 for process monitoring and auto-restart and crontab for automated job scheduling.
 
 **Data Scientist @ [Voltaware](https://voltaware.com/) (Sep 2019 - Dec 2024)**
@@ -34,7 +34,7 @@ Data Scientist with **5+ years of experience**, specializing in **LLM-based solu
 - Prompt Engineering: System prompts, few-shot learning, chain-of-thought
 - Backend: FastAPI 
 - API Integration: Microsoft Graph (Outlook), Google Drive API, ElevenLabs API, CRM systems (Zendesk)
-- Frameworks: LangChain, Hugging Face
+- Frameworks: LangChain, HuggingFace
 - Production Deployment: Low-latency optimization, cost optimization
 
 **Python & Data Science:**

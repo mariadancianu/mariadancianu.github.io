@@ -15,16 +15,16 @@ Data Scientist with **6+ years of working experience**, specializing in **LLM-ba
 
 ## Experience
 **Data Scientist @ [INGO](https://ingo.it/) (April 2025 - July 2026)**
-- **Generative AI & LLMs**: designed and deployed production-ready AI CX sys- tems, including multi-agent voicebots, chatbots and email assistants, optimized for low cost and latency leveraging LLMs with tool calling, RAG pipelines and advanced prompt engineering.
+- **Generative AI & LLMs**: designed and deployed production-ready AI CX systems, including multi-agent voicebots, chatbots and email assistants, optimized for low cost and latency leveraging LLMs with tool calling, RAG pipelines and advanced prompt engineering.
 - **End-to-end AI services**: developed custom FastAPI services and integrated third-party APIs such as Microsoft Graph, ElevenLabs, Google Drive and CRM systems (i.e. Zendesk) to enable automated CX, document processing, and email orchestration workflows.
 - **Reporting & Analytics**: developed client-facing dashboards in Zoho Analytics leveraging complex MySQL queries for service monitoring and data-driven insights.
 - **Production Infrastructure**: deployed production services on Linux VMs using PM2 for process monitoring and auto-restart and crontab for automated job scheduling.
 
 **Data Scientist @ [Voltaware](https://voltaware.com/) (Sep 2019 - Dec 2024)**
 
-- **Energy Disaggregation**: developed production-ready domestic electrical appli- ance detection models, achieving high accuracy, and using supervised and un- supervised machine learning models.
-- **Real Time Analytics**: led the transition from historical to live analytics, re- designing the code stack for real-time results.
-- **Internal Tools**: developed Python packages for visualization, data quality checks, semi-automated labeling, and KPI monitoring, improving workflow ef- ficiency.
+- **Energy Disaggregation**: developed production-ready domestic electrical appliance detection models, achieving high accuracy, and using supervised and un- supervised machine learning models.
+- **Real Time Analytics**: led the transition from historical to live analytics, redesigning the code stack for real-time results.
+- **Internal Tools**: developed Python packages for visualization, data quality checks, semi-automated labeling, and KPI monitoring, improving workflow efficiency.
 
 ## Skills
 
